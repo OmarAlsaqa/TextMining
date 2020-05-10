@@ -1,0 +1,60 @@
+topic0,presid,tonight,ask,member,congress,american,day,thank,join,mr,honor,fellow,call,ago,citizen,leader,proud,speaker,word,pledg
+ ,0.059,0.052,0.047,0.033,0.03,0.029,0.027,0.023,0.02,0.019,0.017,0.016,0.016,0.015,0.015,0.013,0.013,0.013,0.011,0.011
+topic1,right,law,citizen,opportun,human,equal,enforc,civil,fair,women,justic,full,protect,vote,work,respect,rule,individu,amend,constitut
+ ,0.094,0.066,0.038,0.034,0.032,0.032,0.024,0.023,0.02,0.02,0.018,0.017,0.016,0.016,0.014,0.014,0.013,0.01,0.01,0.01
+topic2,men,countri,fight,war,support,end,america,terrorist,iraq,women,lead,stand,vietnam,terror,serv,thousand,attack,enemi,leader,troop
+ ,0.032,0.032,0.028,0.025,0.02,0.018,0.017,0.016,0.015,0.015,0.014,0.013,0.013,0.012,0.012,0.012,0.011,0.011,0.01,0.01
+topic3,much,time,may,past,far,success,upon,respons,yet,hold,tri,fact,come,becom,understand,caus,matter,differ,promis,cours
+ ,0.04,0.036,0.029,0.023,0.022,0.021,0.021,0.021,0.019,0.019,0.018,0.018,0.017,0.016,0.016,0.015,0.015,0.015,0.015,0.014
+topic4,educ,children,school,help,drug,crime,child,give,commun,colleg,student,young,parent,learn,teacher,start,standard,life,ask,train
+ ,0.068,0.058,0.057,0.031,0.024,0.022,0.022,0.022,0.021,0.02,0.019,0.018,0.018,0.014,0.014,0.014,0.012,0.009,0.009,0.008
+topic5,world,peac,free,freedom,war,democraci,communist,independ,east,middl,democrat,secur,throughout,leadership,aggress,peopl,toward,around,side,struggl
+ ,0.188,0.097,0.067,0.054,0.038,0.019,0.019,0.017,0.015,0.014,0.013,0.012,0.011,0.011,0.009,0.009,0.009,0.008,0.008,0.008
+topic6,let,know,peopl,work,want,thing,togeth,think,countri,parti,issu,tell,differ,someth,agre,talk,final,away,hard,done
+ ,0.068,0.066,0.063,0.039,0.034,0.028,0.022,0.021,0.021,0.015,0.014,0.013,0.013,0.012,0.011,0.011,0.01,0.01,0.01,0.01
+topic7,american,peopl,good,better,live,america,give,home,countri,open,opportun,best,abroad,chanc,bring,build,keep,serv,deserv,stronger
+ ,0.145,0.132,0.056,0.043,0.042,0.041,0.035,0.031,0.027,0.023,0.022,0.019,0.017,0.016,0.015,0.014,0.012,0.011,0.01,0.01
+topic8,tax,budget,billion,cut,spend,reduc,deficit,balanc,dollar,reduct,pay,money,save,next,fiscal,total,expenditur,percent,debt,plan
+ ,0.094,0.073,0.061,0.044,0.041,0.037,0.031,0.029,0.029,0.022,0.021,0.02,0.019,0.018,0.017,0.014,0.014,0.013,0.012,0.011
+topic9,action,requir,step,effect,import,labor,possibl,interest,measur,concern,taken,deal,recent,result,greater,purpos,demand,certain,need,necessari
+ ,0.046,0.031,0.031,0.028,0.026,0.026,0.026,0.025,0.023,0.02,0.019,0.018,0.017,0.017,0.017,0.016,0.015,0.014,0.014,0.013
+topic10,america,great,hope,life,valu,futur,alway,faith,spirit,human,histori,man,turn,centuri,dream,look,god,stand,live,heart
+ ,0.103,0.054,0.038,0.032,0.021,0.021,0.02,0.019,0.018,0.018,0.017,0.016,0.016,0.015,0.015,0.014,0.013,0.013,0.011,0.01
+topic11,econom,problem,economi,continu,growth,grow,prosper,progress,term,seriou,strong,foundat,past,domest,sound,remain,solv,reason,address,essenti
+ ,0.103,0.074,0.06,0.054,0.039,0.026,0.026,0.026,0.024,0.018,0.014,0.014,0.013,0.013,0.012,0.012,0.012,0.012,0.012,0.011
+topic12,must,goal,achiev,commit,toward,progress,keep,end,move,futur,full,principl,recogn,meet,forward,effort,realiz,share,enough,restor
+ ,0.234,0.053,0.052,0.039,0.034,0.031,0.024,0.023,0.023,0.022,0.019,0.018,0.016,0.014,0.013,0.011,0.011,0.011,0.01,0.01
+topic13,state,govern,feder,unit,local,respons,share,role,support,decis,partnership,level,washington,encourag,individu,approach,play,purpos,organ,among
+ ,0.167,0.144,0.075,0.061,0.051,0.046,0.021,0.019,0.016,0.016,0.015,0.013,0.012,0.01,0.01,0.01,0.01,0.009,0.008,0.008
+topic14,feder,govern,public,administr,establish,depart,agenc,execut,servic,effect,regul,manag,wast,offic,institut,order,elimin,effici,oper,regulatori
+ ,0.052,0.045,0.029,0.029,0.027,0.027,0.025,0.021,0.021,0.02,0.02,0.019,0.018,0.018,0.016,0.015,0.015,0.014,0.013,0.013
+topic15,increas,inflat,price,rate,percent,last,level,million,number,product,cost,wage,higher,rise,nearli,real,half,expect,reduc,record
+ ,0.122,0.038,0.037,0.037,0.035,0.032,0.028,0.027,0.025,0.023,0.021,0.021,0.018,0.018,0.016,0.014,0.013,0.013,0.012,0.011
+topic16,program,provid,fund,assist,develop,commun,propos,area,need,aid,rural,administr,addit,grant,citi,author,includ,urban,loan,feder
+ ,0.175,0.055,0.05,0.048,0.046,0.043,0.038,0.035,0.031,0.03,0.021,0.02,0.018,0.017,0.017,0.016,0.014,0.014,0.013,0.011
+topic17,can,cannot,without,togeth,mean,believ,futur,confid,hope,build,move,point,best,forward,singl,longer,question,sens,reach,common
+ ,0.228,0.045,0.04,0.035,0.033,0.032,0.024,0.022,0.019,0.018,0.017,0.015,0.015,0.015,0.014,0.013,0.013,0.012,0.011,0.011
+topic18,health,care,social,secur,benefit,system,insur,cost,plan,servic,provid,medic,age,need,veteran,prevent,million,afford,save,medicar
+ ,0.08,0.057,0.039,0.037,0.033,0.032,0.031,0.029,0.028,0.027,0.024,0.018,0.017,0.016,0.015,0.014,0.013,0.012,0.012,0.012
+topic19,soviet,union,nuclear,weapon,power,seek,arm,threat,unit,secur,control,limit,danger,strateg,missil,alli,use,treati,clear,threaten
+ ,0.048,0.045,0.043,0.031,0.03,0.021,0.02,0.019,0.018,0.016,0.015,0.015,0.015,0.014,0.013,0.012,0.012,0.011,0.011,0.01
+topic20,time,chang,challeng,today,come,gener,face,meet,last,next,begin,month,ago,place,histori,ahead,decad,task,histor,centuri
+ ,0.096,0.061,0.048,0.046,0.038,0.037,0.036,0.034,0.033,0.029,0.025,0.024,0.021,0.021,0.021,0.02,0.02,0.017,0.014,0.014
+topic21,effort,need,continu,improv,system,part,major,initi,support,plan,transport,expand,construct,public,safeti,program,strengthen,promot,transit,highway
+ ,0.082,0.081,0.06,0.055,0.052,0.041,0.031,0.026,0.025,0.02,0.019,0.018,0.018,0.016,0.016,0.016,0.013,0.011,0.011,0.009
+topic22,work,famili,help,hous,incom,american,million,welfar,home,low,credit,person,support,live,hard,rais,poverti,earn,abl,white
+ ,0.107,0.071,0.065,0.058,0.052,0.049,0.042,0.035,0.028,0.02,0.02,0.02,0.015,0.015,0.014,0.013,0.013,0.013,0.012,0.011
+topic23,energi,develop,technolog,oil,use,research,power,industri,suppli,space,depend,import,sourc,scienc,product,produc,conserv,advanc,capac,fuel
+ ,0.084,0.058,0.035,0.029,0.028,0.027,0.02,0.02,0.02,0.019,0.019,0.017,0.016,0.015,0.015,0.015,0.013,0.012,0.012,0.012
+topic24,trade,intern,cooper,countri,agreement,europ,region,import,polit,relat,asia,unit,export,negoti,econom,china,major,interest,relationship,africa
+ ,0.046,0.039,0.034,0.033,0.021,0.021,0.02,0.018,0.016,0.016,0.015,0.015,0.013,0.013,0.012,0.012,0.012,0.012,0.012,0.011
+topic25,polici,recommend,shall,congress,foreign,direct,present,commiss,report,messag,special,administr,studi,involv,appropri,includ,confer,review,field,attent
+ ,0.084,0.048,0.035,0.032,0.027,0.024,0.024,0.024,0.022,0.022,0.019,0.016,0.013,0.013,0.013,0.012,0.011,0.011,0.011,0.01
+topic26,congress,legisl,act,propos,reform,pass,last,bill,enact,urg,administr,comprehens,action,senat,prioriti,session,sign,send,congression,complet
+ ,0.131,0.079,0.062,0.059,0.045,0.039,0.039,0.033,0.028,0.025,0.02,0.017,0.015,0.014,0.013,0.012,0.011,0.011,0.011,0.01
+topic27,protect,resourc,land,use,farm,agricultur,farmer,control,food,natur,preserv,water,area,environment,environ,product,reserv,price,market,author
+ ,0.045,0.04,0.033,0.03,0.029,0.025,0.024,0.021,0.021,0.02,0.02,0.02,0.019,0.018,0.018,0.018,0.014,0.012,0.011,0.011
+topic28,job,busi,creat,help,privat,invest,worker,employ,small,economi,industri,expand,competit,work,unemploy,train,encourag,sector,market,incent
+ ,0.092,0.06,0.045,0.044,0.036,0.035,0.034,0.03,0.025,0.024,0.022,0.021,0.02,0.019,0.017,0.016,0.015,0.015,0.014,0.013
+topic29,forc,defens,militari,secur,strength,maintain,strong,build,strengthen,base,power,remain,essenti,modern,capabl,readi,abil,larg,posit,equip
+ ,0.072,0.063,0.055,0.045,0.042,0.028,0.025,0.017,0.016,0.016,0.016,0.015,0.013,0.013,0.013,0.013,0.012,0.011,0.011,0.01
